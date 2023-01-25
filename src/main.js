@@ -5,5 +5,8 @@ import router from './router'
 import './assets/main.css'
 
 const app = createApp(App)
-app.mount('#app')
+
 app.use(router)
+app.mount('#app')
+
+console.log(import.meta.env.BASE_URL)

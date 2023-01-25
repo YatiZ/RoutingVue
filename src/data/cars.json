@@ -1,0 +1,52 @@
+[ 
+    {
+        "id":1,
+        "name":"Chevy",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Laith",
+            "number": "123-666-898"
+        }
+    },
+    {
+        "id":2,
+        "name":"Bentley",
+        "price": 18000,
+        "year": 2005,
+        "contact": {
+            "dealer": "Myeo",
+            "number": "223-366-268"
+        }
+    },
+    {
+        "id":3,
+        "name":"Ford",
+        "price": 50000,
+        "year": 2016,
+        "contact": {
+            "dealer": "Jusier",
+            "number": "113-138-090"
+        }
+    },
+    {
+        "id":4,
+        "name":"Land Lover",
+        "price": 45000,
+        "year": 2012,
+        "contact": {
+            "dealer": "Wolky",
+            "number": "191-345-558"
+        }
+    },
+    {
+        "id":5,
+        "name":"Nissan",
+        "price": 85000,
+        "year": 2020,
+        "contact": {
+            "dealer": "Morow",
+            "number": "173-633-098"
+        }
+    }
+]
